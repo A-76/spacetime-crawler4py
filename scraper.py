@@ -1,5 +1,7 @@
 import re
 from urllib.parse import urlparse
+from lxml import etree
+from io import StringIO
 
 def scraper(url, resp):
     links = extract_next_links(url, resp)
@@ -15,7 +17,14 @@ def extract_next_links(url, resp):
     #         resp.raw_response.url: the url, again
     #         resp.raw_response.content: the content of the page!
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
-    return list()
+    links = []
+    parser = etree.HTMLParser()
+    if(resp.status==200):
+        tree = etree.parse(StringIO(str(resp.raw_response.content)),parser)
+        links = tree.xpath('//a/@href')
+        print("found " + str(len(links)) + " links")
+        #print(links)
+    return links
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 

@@ -2,6 +2,10 @@ import re
 from urllib.parse import urlparse
 from lxml import etree
 from io import StringIO
+import urllib.robotparser
+from bs4 import BeautifulSoup
+
+#check sli.ics.edu links. nothing seems to be working
 
 def scraper(url, resp):
     links = extract_next_links(url, resp)
@@ -18,12 +22,34 @@ def extract_next_links(url, resp):
     #         resp.raw_response.content: the content of the page!
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
     links = []
-    parser = etree.HTMLParser()
-    if(resp.status==200):
-        tree = etree.parse(StringIO(str(resp.raw_response.content)),parser)
-        links = tree.xpath('//a/@href')
-        print("found " + str(len(links)) + " links")
-        #print(links)
+
+    
+    #print("This is the url")
+    #print(url)
+    domain = "ics.uci.edu"
+
+    commentHandler = '#comment'
+    respondHandler = '#respond'
+    actionhndler = "action="
+    
+    if(resp.status==200):  
+        soup = BeautifulSoup(resp.raw_response.content, 'lxml')  
+        for link in soup.find_all('a'):
+            #print(link.get('href'))
+
+            #Handle comments
+            if(domain not in str(link.get('href'))):
+                continue
+
+            if((commentHandler not in str(link.get('href'))) and (respondHandler not in str(link.get('href'))) and (actionHandler not in str(link.get('href')))):
+                links.append(link.get('href'))
+
+        #print("found " + str(len(links)) + " links")
+  
+    if(resp.status>=600):
+        print("the error is ")
+        print(resp.error)
+        print()
     return links
 
 def is_valid(url):
@@ -42,6 +68,9 @@ def is_valid(url):
         if(domain not in url):
             return False
 
+        #consider removing .odc and .sql as well?
+        #We need to handle comments. Different comments point to the same site.
+        #maybe look for '#comment- ' what about .php?
         return not re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
             + r"|png|tiff?|mid|mp2|mp3|mp4"
@@ -50,7 +79,7 @@ def is_valid(url):
             + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
             + r"|epub|dll|cnf|tgz|sha1"
             + r"|thmx|mso|arff|rtf|jar|csv"
-            + r"|rm|smil|wmv|swf|wma|zip|rar|gz)$", parsed.path.lower())
+            + r"|rm|smil|wmv|swf|wma|zip|rar|gz|r|m|py|sql|bib|java|ss|scm|php|zip)$", parsed.path.lower())
 
     except TypeError:
         print ("TypeError for ", parsed)

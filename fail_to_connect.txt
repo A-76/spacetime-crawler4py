@@ -1,0 +1,6 @@
+http://coronavirustwittermap.ics.uci.edu
+<urlopen error [Errno 111] Connection refused>
+
+http://yarra.ics.uci.edu/calit2
+<urlopen error [Errno -2] Name or service not known>
+

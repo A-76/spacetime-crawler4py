@@ -1,6 +1,1908 @@
+https://wics.ics.uci.edu/category/news/wics-meeting
+The read operation timed out
+0
+
+http://www-db.ics.uci.edu:8006
+<urlopen error [Errno 113] No route to host>
+0
+
+http://www-db.ics.uci.edu:8000/webmars
+<urlopen error [Errno 113] No route to host>
+0
+
+http://www-db.ics.uci.edu:8003
+<urlopen error [Errno 113] No route to host>
+0
+
+http://www-db.ics.uci.edu:8004/marsApplet.html
+<urlopen error [Errno 113] No route to host>
+0
+
+http://srproj.eecs.uci.edu/projects/autonomous-object-tracking-quadcopter-remote-processing-capability
+name 'loc' is not defined
+0
+
+https://wics.ics.uci.edu/spring-2022-week-1-general-retreat
+The read operation timed out
+0
+
+https://wics.ics.uci.edu/winter-2022-week-10-wics-study-session
+The read operation timed out
+1
+
+https://wics.ics.uci.edu/author/admin/page/3
+The read operation timed out
+2
+
+https://wics.ics.uci.edu/5
+The read operation timed out
+2
+
+https://wics.ics.uci.edu/3
+The read operation timed out
+0
+
+https://wics.ics.uci.edu/6
+The read operation timed out
+1
+
+https://wics.ics.uci.edu/wics-mock-interviews
+The read operation timed out
+0
+
+https://wics.ics.uci.edu/events/category/project-meeting/2022-01
+The read operation timed out
+2
+
+https://wics.ics.uci.edu/android-app-finale/?afg31_page_id=2#afg-31
+The read operation timed out
+1
+
+https://wics.ics.uci.edu/study-session
+The read operation timed out
+2
+
+https://wics.ics.uci.edu/ics-career-panel/?afg43_page_id=1#afg-43
+The read operation timed out
+1
+
+https://wics.ics.uci.edu/week-5-facebook-women-panel/?afg44_page_id=3#afg-44
+The read operation timed out
+0
+
+https://wics.ics.uci.edu/fall-quarter-2016-first-general-meeting
+The read operation timed out
+0
+
+https://wics.ics.uci.edu/author/hitekpnai
+The read operation timed out
+2
+
+https://wics.ics.uci.edu/first-annual-wics-games/?afg37_page_id=4#afg-37
+The read operation timed out
+1
+
+https://wics.ics.uci.edu/first-android-app-development-meeting
+The read operation timed out
+2
+
+https://wics.ics.uci.edu/wics-co-hosts-google-panel/?afg22_page_id=1#afg-22
+The read operation timed out
+1
+
+https://wics.ics.uci.edu/grace-hopper-celebration-2013/?afg8_page_id=4#afg-8
+The read operation timed out
+0
+
+https://wics.ics.uci.edu/first-project-meeting-by-wics/?afg5_page_id=2#afg-5
+The read operation timed out
+1
+
+https://wics.ics.uci.edu/grace-hopper-celebration-2013/?afg8_page_id=3#afg-8
+The read operation timed out
+2
+
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop/attachment/007
+The read operation timed out
+2
+
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop/attachment/011
+The read operation timed out
+1
+
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop/attachment/008
+The read operation timed out
+0
+
+https://wics.ics.uci.edu/wics-littlebits-workshops/?afg30_page_id=1#afg-30
+The read operation timed out
+0
+
+https://wics.ics.uci.edu/wics-spring-quarter-week-1-first-general-meeting
+The read operation timed out
+1
+
+https://wics.ics.uci.edu/wics-fall-quarter-week-2-mentorship-mixer-2
+The read operation timed out
+2
+
+https://wics.ics.uci.edu/wics-fall-quarter-week-4-coffee-chat-with-deloitte/?afg95_page_id=1#afg-95
+The read operation timed out
+1
+
+https://wics.ics.uci.edu/wics-fall-quarter-week-3-amazon-workshop
+The read operation timed out
+2
+
+https://wics.ics.uci.edu/wics-fall-quarter-week-4-blizzard-info-session/?afg94_page_id=2#afg-94
+The read operation timed out
+0
+
+https://wics.ics.uci.edu/spring-2021-week-2-mentorship-workshop-3
+The read operation timed out
+2
+
+https://wics.ics.uci.edu/fall-2021-week-2-wics-mentorship-mixer
+The read operation timed out
+0
+
+https://wics.ics.uci.edu/spring-2021-week-1-wics-first-general-meeting
+The read operation timed out
+1
+
+http://codeexchange.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://hana.ics.uci.edu/projects/virtual-team.php
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://awareness.ics.uci.edu/~ariadne
+<urlopen error [Errno 111] Connection refused>
+2
+
+https://wics.ics.uci.edu/events/2022-09-23
+The read operation timed out
+1
+
+https://wics.ics.uci.edu/events/2022-10-24/?ical=1
+The read operation timed out
+0
+
+https://wics.ics.uci.edu/events/2022-09
+The read operation timed out
+2
+
+http://alumni.ics.uci.edu/2008/04/07/king-of-risc
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2008/04/16/cruise-control
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2008/07/10/answering-the-call
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2009/03/05/blended-passion
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2009/03/31/prescription-for-success
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://jujube.ics.uci.edu/www/learning.html
+<urlopen error timed out>
+0
+
+http://dblp.ics.uci.edu/authors
+<urlopen error timed out>
+2
+
+http://dblp.ics.uci.edu
+<urlopen error timed out>
+1
+
+http://news.nacs.uci.edu/2009/05/psearch-nacs-and-ics-collaborate
+<urlopen error [Errno -2] Name or service not known>
+1
+
+https://asterixdb.ics.uci.edu/fuzzyjoin-mapreduce
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://cherry.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://asterixdb.ics.uci.edu/documentation/index.html
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://cloudberry.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+http://jujube.ics.uci.edu/localsearch/fuzzysearch
+<urlopen error timed out>
+0
+
+http://cloudberry.ics.uci.edu/demos/twittermap
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+0
+
+http://chime.ics.uci.edu
+<urlopen error timed out>
+2
+
+http://sprout.ics.uci.edu/people/tkaczmar/index.html
+<urlopen error [Errno 111] Connection refused>
+0
+
+http://srproj.eecs.uci.edu/projects/autonomous-object-tracking-quadcopter-remote-processing-capability
+name 'loc' is not defined
+0
+
+http://asterixdb.ics.uci.edu/sponsors.html
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://sprout.ics.uci.edu
+<urlopen error [Errno 111] Connection refused>
+0
+
+http://seraja.ics.uci.edu
+<urlopen error timed out>
+1
+
+http://auge.ics.uci.edu/eventshop
+<urlopen error timed out>
+0
+
+http://auge.ics.uci.edu/sln
+<urlopen error timed out>
+2
+
+http://satware.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://map125.ics.uci.edu/%7Emap125/CampusMap/main.php
+<urlopen error [Errno -2] Name or service not known>
+0
+
+https://www.physics.uci.edu/people/Huolin-Xin
+name 'loc' is not defined
+0
+
+https://www.physics.uci.edu
+name 'loc' is not defined
+0
+
+http://www-db.ics.uci.edu:8006
+<urlopen error [Errno 113] No route to host>
+0
+
+http://www-db.ics.uci.edu:8000/webmars
+<urlopen error [Errno 113] No route to host>
+0
+
+http://www-db.ics.uci.edu:8003
+<urlopen error [Errno 113] No route to host>
+0
+
+http://www-db.ics.uci.edu:8004/marsApplet.html
+<urlopen error [Errno 113] No route to host>
+0
+
+http://cgvw.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://DataProtector.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://DataGuard.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://mapgrid.ics.uci.edu/%22
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://www.isg.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.isg.ics.uci.edu'. (_ssl.c:1131)>
+2
+
+https://tippers.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tippers.ics.uci.edu'. (_ssl.c:1131)>
+1
+
+https://coronavirustwittermap.ics.uci.edu
+<urlopen error [Errno 111] Connection refused>
+2
+
+http://hana.ics.uci.edu/Gary_vita
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://checkmate.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+https://mailman.ics.uci.edu/mailman/listinfo/insa-news
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+http://cocoa-krispies.ics.uci.edu/~paolo/JuliusC
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://omni.ics.uci.edu/index.html
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-27
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-20
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://emj-pc.ics.uci.edu/mgs/dbases/agns
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://www.physics.uci.edu/dynamicsdays2005/abstracts.html#Mjolsness
+name 'loc' is not defined
+2
+
+https://mailman.ics.uci.edu/mailman/listinfo/cml
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+https://mailman.ics.uci.edu/mailman/listinfo/mlrg
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+https://hombao.ics.uci.edu/hernando.html
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://hana.ics.uci.edu/wizard
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://honors.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://hana.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://metaviz.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://hana.ics.uci.edu/Gary_vita
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://checkmate.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+0
+
+http://alumni.ics.uci.edu/2008/04/07/king-of-risc
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://alumni.ics.uci.edu/2008/07/10/answering-the-call
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://alumni.ics.uci.edu/2009/03/05/blended-passion
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2008/04/16/cruise-control
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://alumni.ics.uci.edu/2009/03/31/prescription-for-success
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://srproj.eecs.uci.edu/projects/autonomous-object-tracking-quadcopter-remote-processing-capability
+name 'loc' is not defined
+1
+
+http://asterixdb.ics.uci.edu/sponsors.html
+<urlopen error [Errno -2] Name or service not known>
+1
+
+https://www.physics.uci.edu/people/Huolin-Xin
+name 'loc' is not defined
+2
+
+https://www.physics.uci.edu
+name 'loc' is not defined
+2
+
+http://cloudberry.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+https://coronavirustwittermap.ics.uci.edu
+<urlopen error [Errno 111] Connection refused>
+2
+
+https://asterixdb.ics.uci.edu/fuzzyjoin-mapreduce
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://www-db.ics.uci.edu:8006
+<urlopen error [Errno 113] No route to host>
+2
+
+http://www-db.ics.uci.edu:8000/webmars
+<urlopen error [Errno 113] No route to host>
+2
+
+http://www-db.ics.uci.edu:8003
+<urlopen error [Errno 113] No route to host>
+2
+
+http://www-db.ics.uci.edu:8004/marsApplet.html
+<urlopen error [Errno 113] No route to host>
+2
+
+http://sprout.ics.uci.edu/people/tkaczmar/index.html
+<urlopen error timed out>
+0
+
+http://satware.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://map125.ics.uci.edu/%7Emap125/CampusMap/main.php
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://seraja.ics.uci.edu
+<urlopen error timed out>
+1
+
+http://auge.ics.uci.edu/sln
+<urlopen error timed out>
+0
+
+http://auge.ics.uci.edu/eventshop
+<urlopen error timed out>
+1
+
+http://jujube.ics.uci.edu/www/learning.html
+<urlopen error timed out>
+0
+
+http://dblp.ics.uci.edu/authors
+<urlopen error timed out>
+1
+
+http://news.nacs.uci.edu/2009/05/psearch-nacs-and-ics-collaborate
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://dblp.ics.uci.edu
+<urlopen error timed out>
+0
+
+http://jujube.ics.uci.edu/localsearch/fuzzysearch
+<urlopen error timed out>
+1
+
+http://cherry.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://asterixdb.ics.uci.edu/documentation/index.html
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://chime.ics.uci.edu
+<urlopen error timed out>
+1
+
+http://cloudberry.ics.uci.edu/demos/twittermap
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+http://DataProtector.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://DataGuard.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://mapgrid.ics.uci.edu/%22
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://www.isg.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.isg.ics.uci.edu'. (_ssl.c:1131)>
+1
+
+https://tippers.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tippers.ics.uci.edu'. (_ssl.c:1131)>
+0
+
+http://cgvw.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+https://mailman.ics.uci.edu/mailman/listinfo/insa-news
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+http://cocoa-krispies.ics.uci.edu/~paolo/JuliusC
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://emj-pc.ics.uci.edu/mgs/dbases/agns
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://www.physics.uci.edu/dynamicsdays2005/abstracts.html#Mjolsness
+name 'loc' is not defined
+2
+
+http://omni.ics.uci.edu/index.html
+<urlopen error [Errno -2] Name or service not known>
+0
+
+https://mailman.ics.uci.edu/mailman/listinfo/mlrg
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-27
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-20
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://codeexchange.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://awareness.ics.uci.edu/~ariadne
+<urlopen error [Errno 111] Connection refused>
+1
+
+http://hana.ics.uci.edu/projects/virtual-team.php
+<urlopen error [Errno -2] Name or service not known>
+1
+
+https://wics.ics.uci.edu/western-digital-tour-luncheon-with-female-engineers/?afg2_page_id=2#afg-2
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/letter-of-recommendation-workshop/8418211828_c9d1dba579_c
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/letter-of-recommendation-workshop/photo-5
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/letter-of-recommendation-workshop/8417122335_1e0f1ea227_c
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz/13-02-03-toy-hacker-005
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/4
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/wics-week-0-meet-and-greet
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/1
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/5
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/6
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz/13-02-03-toy-hacker-006
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz/13-02-03-toy-hacker-011
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz/13-02-03-toy-hacker-008
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz/13-02-03-toy-hacker-007
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz/13-02-03-toy-hacker-012
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop-with-dr-garnet-hertz/13-02-03-toy-hacker-001
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/week-10-hour-of-code
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/grace-hopper-celebration-2013
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/week-4-capgeminis-women-in-consulting-night-w-swe-icssc
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/week-3-resume-workshop/?afg10_page_id=2#afg-10
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/annual-mentorship-program-2013
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+http://wics.ics.uci.edu/android-app-rewards
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/week-2-broadcom-info-session/?afg9_page_id=1#afg-9
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/first-project-meeting-by-wics/?afg5_page_id=1#afg-5
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/web-development-projects-awards
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/studying-with-wics
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/food-and-fun-with-wics
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/wics-attends-cwic-socal/?afg34_page_id=4#afg-34
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/wics-attends-cwic-socal/?afg34_page_id=3#afg-34
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/wics-attends-cwic-socal/?afg34_page_id=2#afg-34
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/brownie-troops-computer-expert-badge/?afg26_page_id=1#afg-26
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/category/news/info-session
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/week-2-ios-beginner-workshop
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/verizon-info-session/?afg41_page_id=2#afg-41
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/ics-career-panel/?afg43_page_id=3#afg-43
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/verizon-info-session/?afg41_page_id=1#afg-41
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/adobe-info-session
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/wics-is-awarded-the-ncwit-student-seed-fund-2
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/amazon-info-session/?afg42_page_id=3#afg-42
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/amazon-info-session/?afg42_page_id=2#afg-42
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/mock-interview
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/consulting-versus-industry-pariveda-solutions/?afg40_page_id=3#afg-40
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/consulting-versus-industry-pariveda-solutions/?afg40_page_id=2#afg-40
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/week-5-facebook-women-panel
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/week-3-wicsvgdc-workshop/?afg45_page_id=5#afg-45
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/wics-is-awarded-the-trailblazer-award-from-ncwit-and-google-org
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/week-3-wicsvgdc-workshop/?afg45_page_id=1#afg-45
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/wics-resume-workshop/?afg59_page_id=2#afg-59
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/wics-fall-quarter-week-8-academic-planning-workshop
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/wics-fall-quarter-week-3-amazon-ace-your-interview-workshop
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/week-1-wics-first-general-meeting
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/winter-2021-week-7-wics-mentorship-workshop-2
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/winter-2021-week-8-from-inception-to-delivery-with-intel
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/winter-2021-week-9-self-care-session
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/winter-2021-week-10-wicsdoro-study-night
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/spring-2021-week-9-whisk-with-wics
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/fall-2021-week-1-wics-first-general-meeting
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/fall-2021-week-2-stripe-info-session
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/fall-2021-week-3-wics-games
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/fall-2021-week-4-resume-workshop
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/fall-2021-week-7-code-your-own-portfolio
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/fall-2021-week-8-wics-x-womxn-the-bell
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/fall-2021-week-9-virtual-day-in-the-life-of-a-swe-pm-ui-ux-designer-panel
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/fall-2021-week-8-wics-game-night
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/winter-2022-week-2-mock-technical-interview-prep
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/winter-2022-week-3-mock-technical-interviews
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/winter-2022-week-4-postman-api-workshop
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/winter-2022-week-7-wicsentine
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/winter-2022-week-7-mentorship-madness
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/winter-2022-week-8-virtual-kahoot-clash-collab
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/winter-2022-week-10-wics-study-session
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/spring-2022-week-1-general-retreat
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/spring-2022-week-1-wics-first-general-meeting
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/spring-2022-week-2-wics-x-ctc-personal-portfolio-workshop
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/spring-2022-week-3-movie-night
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/spring-2022-week-4-projects-at-chipotle
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/spring-2022-week-5-inscripta-info-session
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/author/admin/page/21
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/hello-world/#respond
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/hello-world
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/2nd-post
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/wics-first-general-meeting
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/spring-2022-week-6-mentorship-mayhem
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/category/news/wics-meeting/page/2
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/spring-2022-week-7-crowdstrike-office-hours
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/event/spring-2022-week-4-mentorship-linkedin-workshop
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/week-8-thanksgiving-potluck
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://wics.ics.uci.edu/wics-co-hosts-google-panel
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/first-android-app-development-meeting
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/spring-2022-week-9-wics-banquet
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/fall-2022-week-1-first-general-meeting-utc-social
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+0
+
+https://wics.ics.uci.edu/fall-2022-week-2-mentorship-mixer
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+1
+
+https://wics.ics.uci.edu/event/fall-2022-week-5-crowdstrike-tour
+<urlopen error _ssl.c:1114: The handshake operation timed out>
+2
+
+https://mailman.ics.uci.edu/mailman/listinfo/cml
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+http://sprout.ics.uci.edu
+<urlopen error timed out>
+1
+
+https://hombao.ics.uci.edu/hernando.html
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://hana.ics.uci.edu/wizard
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://honors.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://hana.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://metaviz.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
 http://coronavirustwittermap.ics.uci.edu
 <urlopen error [Errno 111] Connection refused>
+1
 
-http://yarra.ics.uci.edu/calit2
+http://awareness.ics.uci.edu/~ariadne
+<urlopen error [Errno 111] Connection refused>
+0
+
+http://hana.ics.uci.edu/projects/virtual-team.php
 <urlopen error [Errno -2] Name or service not known>
+1
+
+http://codeexchange.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2008/04/07/king-of-risc
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2008/04/16/cruise-control
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2008/07/10/answering-the-call
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2009/03/31/prescription-for-success
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2009/03/05/blended-passion
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://jujube.ics.uci.edu/www/learning.html
+<urlopen error timed out>
+2
+
+http://dblp.ics.uci.edu
+<urlopen error timed out>
+1
+
+http://dblp.ics.uci.edu/authors
+<urlopen error timed out>
+0
+
+http://news.nacs.uci.edu/2009/05/psearch-nacs-and-ics-collaborate
+<urlopen error [Errno -2] Name or service not known>
+0
+
+https://asterixdb.ics.uci.edu/fuzzyjoin-mapreduce
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://cherry.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://asterixdb.ics.uci.edu/documentation/index.html
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://cloudberry.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+http://jujube.ics.uci.edu/localsearch/fuzzysearch
+<urlopen error timed out>
+2
+
+http://chime.ics.uci.edu
+<urlopen error timed out>
+0
+
+http://cloudberry.ics.uci.edu/demos/twittermap
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+http://sprout.ics.uci.edu
+<urlopen error timed out>
+1
+
+http://cocoa-krispies.ics.uci.edu/~paolo/JuliusC
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://srproj.eecs.uci.edu/projects/autonomous-object-tracking-quadcopter-remote-processing-capability
+name 'loc' is not defined
+2
+
+http://sprout.ics.uci.edu/people/tkaczmar/index.html
+<urlopen error timed out>
+1
+
+https://www.physics.uci.edu/people/Huolin-Xin
+name 'loc' is not defined
+1
+
+https://www.physics.uci.edu
+name 'loc' is not defined
+1
+
+http://asterixdb.ics.uci.edu/sponsors.html
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://satware.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://cgvw.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://map125.ics.uci.edu/%7Emap125/CampusMap/main.php
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://checkmate.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+0
+
+https://mailman.ics.uci.edu/mailman/listinfo/insa-news
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+0
+
+http://www-db.ics.uci.edu:8006
+<urlopen error [Errno 113] No route to host>
+0
+
+http://www-db.ics.uci.edu:8000/webmars
+<urlopen error [Errno 113] No route to host>
+0
+
+http://www-db.ics.uci.edu:8003
+<urlopen error [Errno 113] No route to host>
+0
+
+http://www-db.ics.uci.edu:8004/marsApplet.html
+<urlopen error [Errno 113] No route to host>
+0
+
+http://auge.ics.uci.edu/eventshop
+<urlopen error timed out>
+2
+
+http://auge.ics.uci.edu/sln
+<urlopen error timed out>
+0
+
+http://seraja.ics.uci.edu
+<urlopen error timed out>
+2
+
+http://DataProtector.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://DataGuard.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://mapgrid.ics.uci.edu/%22
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://www.isg.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.isg.ics.uci.edu'. (_ssl.c:1131)>
+0
+
+https://tippers.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tippers.ics.uci.edu'. (_ssl.c:1131)>
+2
+
+https://mailman.ics.uci.edu/mailman/listinfo/cml
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+https://mailman.ics.uci.edu/mailman/listinfo/mlrg
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+0
+
+http://emj-pc.ics.uci.edu/mgs/dbases/agns
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://www.physics.uci.edu/dynamicsdays2005/abstracts.html#Mjolsness
+name 'loc' is not defined
+1
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-27
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-20
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://omni.ics.uci.edu/index.html
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://hana.ics.uci.edu/Gary_vita
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://hombao.ics.uci.edu/hernando.html
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://hana.ics.uci.edu/wizard
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://honors.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://hana.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://metaviz.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://coronavirustwittermap.ics.uci.edu
+<urlopen error [Errno 111] Connection refused>
+2
+
+http://coronavirustwittermap.ics.uci.edu
+<urlopen error [Errno 111] Connection refused>
+0
+
+http://codeexchange.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://hana.ics.uci.edu/projects/virtual-team.php
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://awareness.ics.uci.edu/~ariadne
+<urlopen error [Errno 111] Connection refused>
+1
+
+http://checkmate.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+0
+
+http://map125.ics.uci.edu/%7Emap125/CampusMap/main.php
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://srproj.eecs.uci.edu/projects/autonomous-object-tracking-quadcopter-remote-processing-capability
+name 'loc' is not defined
+1
+
+http://sprout.ics.uci.edu
+<urlopen error timed out>
+0
+
+http://asterixdb.ics.uci.edu/sponsors.html
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://cocoa-krispies.ics.uci.edu/~paolo/JuliusC
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://sprout.ics.uci.edu/people/tkaczmar/index.html
+<urlopen error timed out>
+2
+
+http://cloudberry.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+https://www.physics.uci.edu/people/Huolin-Xin
+name 'loc' is not defined
+2
+
+https://www.physics.uci.edu
+name 'loc' is not defined
+2
+
+https://asterixdb.ics.uci.edu/fuzzyjoin-mapreduce
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://satware.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://cgvw.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://www-db.ics.uci.edu:8006
+<urlopen error [Errno 113] No route to host>
+1
+
+http://www-db.ics.uci.edu:8000/webmars
+<urlopen error [Errno 113] No route to host>
+1
+
+http://www-db.ics.uci.edu:8003
+<urlopen error [Errno 113] No route to host>
+1
+
+http://www-db.ics.uci.edu:8004/marsApplet.html
+<urlopen error [Errno 113] No route to host>
+1
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-27
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-20
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://emj-pc.ics.uci.edu/mgs/dbases/agns
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://www.physics.uci.edu/dynamicsdays2005/abstracts.html#Mjolsness
+name 'loc' is not defined
+0
+
+http://auge.ics.uci.edu/eventshop
+<urlopen error timed out>
+0
+
+http://auge.ics.uci.edu/sln
+<urlopen error timed out>
+1
+
+http://seraja.ics.uci.edu
+<urlopen error timed out>
+2
+
+https://mailman.ics.uci.edu/mailman/listinfo/cml
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+https://mailman.ics.uci.edu/mailman/listinfo/mlrg
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+http://news.nacs.uci.edu/2009/05/psearch-nacs-and-ics-collaborate
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://jujube.ics.uci.edu/www/learning.html
+<urlopen error timed out>
+0
+
+http://dblp.ics.uci.edu/authors
+<urlopen error timed out>
+1
+
+http://dblp.ics.uci.edu
+<urlopen error timed out>
+2
+
+http://jujube.ics.uci.edu/localsearch/fuzzysearch
+<urlopen error timed out>
+1
+
+http://cherry.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://asterixdb.ics.uci.edu/documentation/index.html
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://chime.ics.uci.edu
+<urlopen error timed out>
+2
+
+http://cloudberry.ics.uci.edu/demos/twittermap
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+http://alumni.ics.uci.edu/2008/04/07/king-of-risc
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2008/04/16/cruise-control
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2008/07/10/answering-the-call
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2009/03/05/blended-passion
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2009/03/31/prescription-for-success
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://mapgrid.ics.uci.edu/%22
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://DataProtector.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://DataGuard.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://www.isg.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.isg.ics.uci.edu'. (_ssl.c:1131)>
+2
+
+https://tippers.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tippers.ics.uci.edu'. (_ssl.c:1131)>
+0
+
+http://omni.ics.uci.edu/index.html
+<urlopen error [Errno -2] Name or service not known>
+1
+
+https://mailman.ics.uci.edu/mailman/listinfo/insa-news
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+http://hana.ics.uci.edu/Gary_vita
+<urlopen error [Errno -2] Name or service not known>
+1
+
+https://hombao.ics.uci.edu/hernando.html
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://hana.ics.uci.edu/wizard
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://honors.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://hana.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://metaviz.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://codeexchange.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://hana.ics.uci.edu/Gary_vita
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://checkmate.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+http://seraja.ics.uci.edu
+<urlopen error timed out>
+1
+
+http://sprout.ics.uci.edu
+<urlopen error timed out>
+1
+
+http://srproj.eecs.uci.edu/projects/autonomous-object-tracking-quadcopter-remote-processing-capability
+name 'loc' is not defined
+1
+
+https://www.physics.uci.edu/people/Huolin-Xin
+name 'loc' is not defined
+0
+
+https://www.physics.uci.edu
+name 'loc' is not defined
+0
+
+http://alumni.ics.uci.edu/2009/03/31/prescription-for-success
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://alumni.ics.uci.edu/2008/04/07/king-of-risc
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://alumni.ics.uci.edu/2008/04/16/cruise-control
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://alumni.ics.uci.edu/2008/07/10/answering-the-call
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://alumni.ics.uci.edu/2009/03/05/blended-passion
+<urlopen error [Errno -2] Name or service not known>
+0
+
+https://mailman.ics.uci.edu/mailman/listinfo/cml
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+https://mailman.ics.uci.edu/mailman/listinfo/mlrg
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+http://asterixdb.ics.uci.edu/sponsors.html
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://www-db.ics.uci.edu:8006
+<urlopen error [Errno 113] No route to host>
+1
+
+http://www-db.ics.uci.edu:8000/webmars
+<urlopen error [Errno 113] No route to host>
+1
+
+http://www-db.ics.uci.edu:8003
+<urlopen error [Errno 113] No route to host>
+1
+
+http://www-db.ics.uci.edu:8004/marsApplet.html
+<urlopen error [Errno 113] No route to host>
+1
+
+https://asterixdb.ics.uci.edu/fuzzyjoin-mapreduce
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://cloudberry.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+https://coronavirustwittermap.ics.uci.edu
+<urlopen error [Errno 111] Connection refused>
+2
+
+http://sprout.ics.uci.edu/people/tkaczmar/index.html
+<urlopen error timed out>
+1
+
+http://satware.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://map125.ics.uci.edu/%7Emap125/CampusMap/main.php
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://cgvw.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://auge.ics.uci.edu/eventshop
+<urlopen error timed out>
+1
+
+http://auge.ics.uci.edu/sln
+<urlopen error timed out>
+2
+
+http://jujube.ics.uci.edu/www/learning.html
+<urlopen error timed out>
+1
+
+http://dblp.ics.uci.edu/authors
+<urlopen error timed out>
+2
+
+http://news.nacs.uci.edu/2009/05/psearch-nacs-and-ics-collaborate
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://dblp.ics.uci.edu
+<urlopen error timed out>
+1
+
+http://jujube.ics.uci.edu/localsearch/fuzzysearch
+<urlopen error timed out>
+2
+
+http://cherry.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://asterixdb.ics.uci.edu/documentation/index.html
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://chime.ics.uci.edu
+<urlopen error timed out>
+2
+
+http://cloudberry.ics.uci.edu/demos/twittermap
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+0
+
+http://DataProtector.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://DataGuard.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://mapgrid.ics.uci.edu/%22
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://www.isg.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.isg.ics.uci.edu'. (_ssl.c:1131)>
+1
+
+https://tippers.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tippers.ics.uci.edu'. (_ssl.c:1131)>
+0
+
+https://mailman.ics.uci.edu/mailman/listinfo/insa-news
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+http://cocoa-krispies.ics.uci.edu/~paolo/JuliusC
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://omni.ics.uci.edu/index.html
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-27
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-20
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://emj-pc.ics.uci.edu/mgs/dbases/agns
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://www.physics.uci.edu/dynamicsdays2005/abstracts.html#Mjolsness
+name 'loc' is not defined
+0
+
+http://hana.ics.uci.edu/projects/virtual-team.php
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://awareness.ics.uci.edu/~ariadne
+<urlopen error [Errno 111] Connection refused>
+0
+
+https://hombao.ics.uci.edu/hernando.html
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://hana.ics.uci.edu/wizard
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://honors.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://hana.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://metaviz.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://codeexchange.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+3
+
+http://hana.ics.uci.edu/Gary_vita
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://checkmate.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+http://alumni.ics.uci.edu/2008/04/07/king-of-risc
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://alumni.ics.uci.edu/2008/04/16/cruise-control
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2008/07/10/answering-the-call
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://alumni.ics.uci.edu/2009/03/05/blended-passion
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://alumni.ics.uci.edu/2009/03/31/prescription-for-success
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://cloudberry.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+3
+
+https://coronavirustwittermap.ics.uci.edu
+<urlopen error [Errno 111] Connection refused>
+3
+
+https://asterixdb.ics.uci.edu/fuzzyjoin-mapreduce
+<urlopen error [Errno -2] Name or service not known>
+0
+
+https://mailman.ics.uci.edu/mailman/listinfo/cml
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+1
+
+http://srproj.eecs.uci.edu/projects/autonomous-object-tracking-quadcopter-remote-processing-capability
+name 'loc' is not defined
+2
+
+http://asterixdb.ics.uci.edu/sponsors.html
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://sprout.ics.uci.edu/people/tkaczmar/index.html
+<urlopen error timed out>
+1
+
+http://sprout.ics.uci.edu
+<urlopen error timed out>
+0
+
+http://satware.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://map125.ics.uci.edu/%7Emap125/CampusMap/main.php
+<urlopen error [Errno -2] Name or service not known>
+1
+
+https://www.physics.uci.edu/people/Huolin-Xin
+name 'loc' is not defined
+2
+
+https://www.physics.uci.edu
+name 'loc' is not defined
+2
+
+https://mailman.ics.uci.edu/mailman/listinfo/mlrg
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+0
+
+http://www-db.ics.uci.edu:8006
+<urlopen error [Errno 113] No route to host>
+3
+
+http://www-db.ics.uci.edu:8000/webmars
+<urlopen error [Errno 113] No route to host>
+3
+
+http://www-db.ics.uci.edu:8003
+<urlopen error [Errno 113] No route to host>
+3
+
+http://www-db.ics.uci.edu:8004/marsApplet.html
+<urlopen error [Errno 113] No route to host>
+3
+
+https://mailman.ics.uci.edu/mailman/listinfo/insa-news
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+3
+
+http://cocoa-krispies.ics.uci.edu/~paolo/JuliusC
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://omni.ics.uci.edu/index.html
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-27
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://pasteur.ics.uci.edu/Dienst/UI/2.0/Describe/ncstrl.uci%2fICS-TR-96-20
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://emj-pc.ics.uci.edu/mgs/dbases/agns
+<urlopen error [Errno -2] Name or service not known>
+3
+
+http://www.physics.uci.edu/dynamicsdays2005/abstracts.html#Mjolsness
+name 'loc' is not defined
+3
+
+http://cgvw.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://seraja.ics.uci.edu
+<urlopen error timed out>
+3
+
+http://auge.ics.uci.edu/eventshop
+<urlopen error timed out>
+0
+
+http://auge.ics.uci.edu/sln
+<urlopen error timed out>
+2
+
+http://news.nacs.uci.edu/2009/05/psearch-nacs-and-ics-collaborate
+<urlopen error [Errno -2] Name or service not known>
+3
+
+http://jujube.ics.uci.edu/www/learning.html
+<urlopen error timed out>
+1
+
+http://dblp.ics.uci.edu/authors
+<urlopen error timed out>
+3
+
+http://dblp.ics.uci.edu
+<urlopen error timed out>
+0
+
+http://cherry.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://asterixdb.ics.uci.edu/documentation/index.html
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://jujube.ics.uci.edu/localsearch/fuzzysearch
+<urlopen error timed out>
+3
+
+http://chime.ics.uci.edu
+<urlopen error timed out>
+0
+
+http://cloudberry.ics.uci.edu/demos/twittermap
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1131)>
+2
+
+http://DataProtector.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://DataGuard.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://mapgrid.ics.uci.edu/%22
+<urlopen error [Errno -2] Name or service not known>
+2
+
+http://www.isg.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.isg.ics.uci.edu'. (_ssl.c:1131)>
+3
+
+https://tippers.ics.uci.edu
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tippers.ics.uci.edu'. (_ssl.c:1131)>
+0
+
+http://awareness.ics.uci.edu/~ariadne
+<urlopen error [Errno 111] Connection refused>
+1
+
+http://hana.ics.uci.edu/projects/virtual-team.php
+<urlopen error [Errno -2] Name or service not known>
+3
+
+https://hombao.ics.uci.edu/hernando.html
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://hana.ics.uci.edu/wizard
+<urlopen error [Errno -2] Name or service not known>
+0
+
+http://honors.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+3
+
+http://hana.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+1
+
+http://metaviz.ics.uci.edu
+<urlopen error [Errno -2] Name or service not known>
+0
 
